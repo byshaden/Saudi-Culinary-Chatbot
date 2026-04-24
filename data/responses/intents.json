@@ -1,0 +1,70 @@
+{
+  "greeting": {
+    "patterns": [
+      "hello", "hi", "hey", "good morning", "good afternoon",
+      "greetings", "مرحبا", "السلام", "هلا"
+    ],
+    "priority": 10,
+    "response_type": "greeting"
+  },
+  "provide_name": {
+    "patterns": [
+      "my name is", "i'm", "i am", "call me", "this is",
+      "اسمي", "انا"
+    ],
+    "priority": 9,
+    "response_type": "acknowledge_name"
+  },
+ "request_category": {
+  "patterns": [
+    "rice", "meat",
+    "dessert", "desserts",
+    "sweet", "sweets",
+    "رز", "لحم", "حلو", "حلويات"
+  ],
+  "priority": 8,
+  "response_type": "show_category"
+ },
+  "request_recipe": {
+    "patterns": [
+      "recipe", "how to make", "how to cook", "tell me about", "learn about",
+      "show me", "explain", "kabsa", "mandi", "bukhari", "mathbi",
+      "وصفة", "طريقة", "كيف", "شرح"
+    ],
+    "priority": 10,
+    "response_type": "show_recipe"
+  },
+  "request_details": {
+    "patterns": [
+      "tell me about", "what is", "explain", "describe",
+      "info", "information", "details", "شرح", "وش هو"
+    ],
+    "priority": 7,
+    "response_type": "explain"
+  },
+  "thanks": {
+    "patterns": [
+      "thank", "thanks", "thank you", "appreciate",
+      "شكرا", "مشكور"
+    ],
+    "priority": 5,
+    "response_type": "thanks"
+  },
+  "goodbye": {
+    "patterns": [
+      "bye", "goodbye", "see you", "farewell", "exit",
+      "quit", "مع السلامة", "باي"
+    ],
+    "priority": 5,
+    "response_type": "goodbye"
+  },
+  "similar_dishes": {
+    "patterns": [
+      "similar", "like this", "same as", "related to",
+      "other dishes like", "what else is similar",
+      "شبيه", "مثل هذا", "زي كذا"
+    ],
+    "priority": 7,
+    "response_type": "show_similar"
+  }
+}

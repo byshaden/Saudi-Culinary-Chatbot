@@ -1,0 +1,109 @@
+{
+  "kunafa": {
+    "name_en": "Kunafa",
+    "name_ar": "كنافة",
+    "category": "dessert",
+    "region": "Middle East",
+    "description": "A popular dessert made with shredded pastry, cheese or cream, and soaked in sweet syrup.",
+    "servings": 6,
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes",
+    "difficulty": "Medium",
+    "sweetness_level": "High",
+    "ingredients": [
+      "500 g kunafa pastry",
+      "250 g cheese or cream",
+      "1 cup sugar syrup",
+      "1/2 cup melted butter",
+      "Crushed pistachios for garnish"
+    ],
+    "steps": [
+      "Shred kunafa pastry and mix with melted butter",
+      "Press half into baking tray",
+      "Add cheese or cream layer",
+      "Cover with remaining pastry",
+      "Bake until golden",
+      "Pour sugar syrup over hot kunafa",
+      "Garnish with pistachios"
+    ],
+    "tips": [
+      "Serve warm for best taste",
+      "Do not over-soak with syrup"
+    ],
+    "tags": ["dessert", "sweet", "popular"],
+    "similar_dishes": ["basbousa"]
+  },
+
+  "basbousa": {
+    "name_en": "Basbousa",
+    "name_ar": "بسبوسة",
+    "category": "dessert",
+    "region": "Arabian Peninsula",
+    "description": "A soft semolina cake soaked in sugar syrup and flavored with coconut.",
+    "servings": 8,
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes",
+    "difficulty": "Easy",
+    "sweetness_level": "Medium",
+    "ingredients": [
+      "2 cups semolina",
+      "1 cup sugar",
+      "1 cup yogurt",
+      "1/2 cup oil",
+      "1/2 cup coconut flakes",
+      "1 cup sugar syrup",
+      "Almonds for topping"
+    ],
+    "steps": [
+      "Mix semolina, sugar, yogurt, oil, and coconut",
+      "Pour mixture into greased pan",
+      "Score and top with almonds",
+      "Bake until golden",
+      "Pour syrup over hot cake",
+      "Let cool before serving"
+    ],
+    "tips": [
+      "Do not overmix batter",
+      "Let it absorb syrup slowly"
+    ],
+    "tags": ["dessert", "cake", "traditional"],
+    "similar_dishes": ["kunafa"]
+  },
+
+  "maamoul": {
+    "name_en": "Ma'amoul",
+    "name_ar": "معمول",
+    "category": "dessert",
+    "region": "Arab World",
+    "description": "Stuffed cookies filled with dates, nuts, or pistachios, commonly served during Eid.",
+    "servings": 10,
+    "prep_time": "40 minutes",
+    "cook_time": "20 minutes",
+    "difficulty": "Medium",
+    "sweetness_level": "Medium",
+    "ingredients": [
+      "3 cups flour",
+      "1 cup butter",
+      "1/2 cup milk",
+      "1 teaspoon yeast",
+      "Date paste or nut filling",
+      "Powdered sugar for dusting"
+    ],
+    "steps": [
+      "Mix flour and butter",
+      "Add milk and yeast, knead dough",
+      "Rest dough for 30 minutes",
+      "Stuff with date or nut filling",
+      "Shape using maamoul mold",
+      "Bake until lightly golden",
+      "Dust with powdered sugar"
+    ],
+    "tips": [
+      "Do not overbake",
+      "Use molds for traditional shape"
+    ],
+    "tags": ["dessert", "cookies", "eid"],
+    "similar_dishes": ["kahk"]
+  }
+}
+

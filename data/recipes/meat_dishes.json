@@ -1,0 +1,137 @@
+{
+  "mathbi": {
+    "name_en": "Mathbi",
+    "name_ar": "مظبي",
+    "category": "meat",
+    "region": "Southern Saudi Arabia",
+    "description": "Grilled meat or chicken cooked over hot stones, known for its smoky flavor.",
+    "servings": 4,
+    "prep_time": "20 minutes",
+    "cook_time": "60 minutes",
+    "difficulty": "Medium",
+    "spice_level": "Medium",
+    "ingredients": [
+      "1 kg chicken or lamb",
+      "2 tablespoons mathbi spice mix",
+      "1 tablespoon turmeric",
+      "1 tablespoon cumin",
+      "3 cloves garlic, crushed",
+      "Salt to taste",
+      "2 tablespoons oil"
+    ],
+    "steps": [
+      "Marinate meat with spices, garlic, oil, and salt for 1 hour",
+      "Heat stones or grill until very hot",
+      "Place meat directly over heat",
+      "Cover and cook until tender, turning occasionally",
+      "Serve hot with rice or bread"
+    ],
+    "tips": [
+      "High heat gives authentic smoky flavor",
+      "Marinate longer for deeper taste"
+    ],
+    "tags": ["meat", "grilled", "smoky"],
+    "similar_dishes": ["mandi", "haneeth"]
+  },
+
+  "haneeth": {
+    "name_en": "Haneeth",
+    "name_ar": "حنيذ",
+    "category": "meat",
+    "region": "Southern Saudi Arabia",
+    "description": "Slow-cooked meat wrapped and baked until extremely tender.",
+    "servings": 6,
+    "prep_time": "30 minutes",
+    "cook_time": "3 hours",
+    "difficulty": "Hard",
+    "spice_level": "Mild",
+    "ingredients": [
+      "2 kg lamb",
+      "2 tablespoons haneeth spice mix",
+      "1 tablespoon black pepper",
+      "4 cloves garlic",
+      "Salt to taste",
+      "Banana leaves or foil"
+    ],
+    "steps": [
+      "Season meat with spices, garlic, and salt",
+      "Wrap tightly with banana leaves or foil",
+      "Bake in low oven for 3 hours",
+      "Unwrap and lightly brown before serving"
+    ],
+    "tips": [
+      "Low and slow cooking is key",
+      "Serve with rice or flatbread"
+    ],
+    "tags": ["meat", "slow-cooked", "traditional"],
+    "similar_dishes": ["madfoon", "mandi"]
+  },
+
+  "madfoon": {
+    "name_en": "Madfoon",
+    "name_ar": "مدفون",
+    "category": "meat",
+    "region": "Central Saudi Arabia",
+    "description": "Rice and meat cooked together underground or in a sealed pot.",
+    "servings": 8,
+    "prep_time": "30 minutes",
+    "cook_time": "2 hours",
+    "difficulty": "Medium",
+    "spice_level": "Medium",
+    "ingredients": [
+      "2 kg lamb",
+      "4 cups basmati rice",
+      "3 tablespoons madfoon spice mix",
+      "2 onions, sliced",
+      "4 cloves garlic",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "steps": [
+      "Season meat with spices and salt",
+      "Place meat at bottom of pot",
+      "Add rice, onions, and garlic",
+      "Cover tightly and cook on low heat for 2 hours",
+      "Serve rice with meat on top"
+    ],
+    "tips": [
+      "Seal the pot well to trap steam",
+      "Best served for large gatherings"
+    ],
+    "tags": ["meat", "rice", "festive"],
+    "similar_dishes": ["kabsa", "mandi"]
+  },
+
+  "grilled_lamb": {
+    "name_en": "Grilled Lamb",
+    "name_ar": "لحم مشوي",
+    "category": "meat",
+    "region": "All regions",
+    "description": "Simple grilled lamb seasoned with traditional Saudi spices.",
+    "servings": 4,
+    "prep_time": "15 minutes",
+    "cook_time": "45 minutes",
+    "difficulty": "Easy",
+    "spice_level": "Medium",
+    "ingredients": [
+      "1 kg lamb chops",
+      "1 tablespoon cumin",
+      "1 tablespoon paprika",
+      "Salt to taste",
+      "2 tablespoons olive oil"
+    ],
+    "steps": [
+      "Season lamb with spices, salt, and oil",
+      "Preheat grill",
+      "Grill lamb until cooked through",
+      "Serve immediately"
+    ],
+    "tips": [
+      "Do not overcook to keep meat juicy",
+      "Serve with salad or rice"
+    ],
+    "tags": ["meat", "grilled", "easy"],
+    "similar_dishes": ["mathbi"]
+  }
+}
+

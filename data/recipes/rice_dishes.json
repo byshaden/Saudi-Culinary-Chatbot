@@ -1,0 +1,87 @@
+{
+  "kabsa": {
+    "name_en": "Kabsa",
+    "name_ar": "كبسة",
+    "category": "rice",
+    "region": "Najd",
+    "description": "Saudi Arabia's national dish with aromatic spiced rice and meat",
+    "servings": 6,
+    "prep_time": "30 minutes",
+    "cook_time": "45 minutes",
+    "difficulty": "Medium",
+    "spice_level": "Medium",
+    "ingredients": [
+      "1 kg chicken pieces",
+      "3 cups basmati rice (soaked 30 minutes)",
+      "2 large onions, chopped",
+      "4 tomatoes, diced",
+      "3 tablespoons kabsa spice mix",
+      "6 cloves garlic, minced",
+      "2 dried black lime (loomi)",
+      "4 cardamom pods",
+      "2 bay leaves",
+      "Salt to taste",
+      "4 tablespoons cooking oil",
+      "Garnish: fried almonds, raisins"
+    ],
+    "steps": [
+      "Boil chicken with onion, black lime, cardamom, and bay leaves for 30 minutes",
+      "Remove chicken and keep 4 cups of broth",
+      "Fry chicken until golden brown, set aside",
+      "In the same pot, sauté remaining onion and garlic until soft",
+      "Add tomatoes and kabsa spices, cook 5 minutes",
+      "Add rice and stir to coat with spices",
+      "Pour in 4 cups broth, bring to boil",
+      "Reduce heat, cover, simmer 20 minutes",
+      "Place chicken on top, cook 10 more minutes on low",
+      "Let rest 5 minutes, serve garnished"
+    ],
+    "tips": [
+      "Use aged basmati rice for best texture",
+      "Don't skip resting time for fluffy rice",
+      "Black lime gives authentic flavor"
+    ],
+    "tags": ["rice", "chicken", "popular", "festive"],
+    "similar_dishes": ["mandi", "bukhari"]
+  },
+  "mandi": {
+    "name_en": "Mandi",
+    "name_ar": "مندي",
+    "category": "rice",
+    "region": "Southern Saudi Arabia",
+    "description": "Smoky rice with tender meat - a feast favorite",
+    "servings": 8,
+    "prep_time": "20 minutes",
+    "cook_time": "2 hours",
+    "difficulty": "Medium",
+    "spice_level": "Mild",
+    "ingredients": [
+      "1.5 kg lamb or chicken",
+      "4 cups basmati rice",
+      "1 large onion, quartered",
+      "6 cloves garlic",
+      "2 tablespoons mandi spice mix",
+      "1 tablespoon turmeric",
+      "4 cardamom pods",
+      "2 bay leaves",
+      "Salt to taste",
+      "Oil for brushing"
+    ],
+    "steps": [
+      "Marinate meat with spices for 1 hour",
+      "Boil meat with onion, garlic, spices until tender (1.5 hours)",
+      "Remove meat, save 5 cups broth",
+      "Grill meat until lightly charred",
+      "Cook rice in the broth for 15 minutes",
+      "For smoking: place hot charcoal, drizzle oil, cover 5 minutes",
+      "Serve rice with meat on top"
+    ],
+    "tips": [
+      "Smoking step is optional but authentic",
+      "Meat should be fall-off-bone tender",
+      "Serve with spicy tomato sauce"
+    ],
+    "tags": ["rice", "lamb", "smoky", "festive"],
+    "similar_dishes": ["kabsa", "mathbi"]
+  }
+}

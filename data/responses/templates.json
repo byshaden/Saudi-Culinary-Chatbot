@@ -1,0 +1,55 @@
+{
+  "greeting": [
+    "Hello there! 👋 Welcome to Saudi Culinary Journey!\n\nI'm Norah, and I'm so excited to introduce you to the amazing world of Saudi cuisine. We have everything from aromatic rice dishes to tender grilled meats and sweet treats that will make your taste buds dance!\n\nBut first, I'd love to know - what's your name? 😊"
+  ],
+  
+  "acknowledge_name": [
+    "It's wonderful to meet you, {name}! 🌟\n\nYou know, Saudi cuisine is one of the most diverse in the Middle East, with each region having its own specialties. I've been cooking these dishes my whole life, and I can't wait to share them with you!\n\nSo tell me, {name} - what kind of flavors are you in the mood for today?\n\n🍚 **Rice-based dishes** like our famous Kabsa or smoky Mandi?\n🥩 **Hearty meat dishes** that fall off the bone?\n🍰 **Sweet desserts** to satisfy your sweet tooth?\n\nWhat sounds good to you?",
+    "Ah, {name}! What a lovely name! 😊\n\nLet me tell you, you've come to the right place if you want to explore authentic Saudi cooking. My grandmother taught me many of these recipes, and they've been passed down for generations!\n\nNow, I'm curious - are you more interested in:\n\n🍚 Our beloved **rice dishes** (trust me, Saudi rice is unlike anything else!)\n🥩 **Meat specialties** that are perfect for gatherings\n🍰 **Traditional sweets** that are absolutely divine\n\nWhat catches your attention, {name}?"
+  ],
+  
+  "show_category_rice": [
+    "Oh {name}, you've chosen my favorite! 🍚 Rice dishes are truly the soul of Saudi cuisine.\n\nLet me show you some dishes that Saudis serve at their most special occasions:\n\n{recipes}\n\nEach of these dishes tells a story, {name}. Which one would you like to know more about? I can tell you everything - the ingredients, the techniques, even the little tricks that make them perfect!",
+    "Excellent choice, {name}! Rice dishes are what we're famous for! 🌟\n\nYou know, in Saudi Arabia, serving a beautiful platter of aromatic rice with meat is how we show hospitality and love. Here are some of our treasures:\n\n{recipes}\n\nI've made each of these countless times, {name}. Which one sparks your curiosity? I'd love to walk you through it!"
+  ],
+  
+  "show_category_meat": [
+    "Wonderful taste, {name}! 🥩 Our meat dishes are all about slow cooking and perfect spices.\n\nIn Saudi homes, these dishes are the centerpiece of celebrations and family gatherings:\n\n{recipes}\n\nThe secret to these dishes, {name}, is patience and love. Which one would you like to learn? I'll share all the insider tips!",
+    "Ah, a meat lover! You're speaking my language, {name}! 🍖\n\nSaudi meat dishes are known for being incredibly tender - the meat literally falls off the bone. Here's what I can teach you:\n\n{recipes}\n\nThese recipes have been perfected over centuries. Pick one, {name}, and I'll show you exactly how it's done!"
+  ],
+  
+  "show_category_dessert": [
+    "Oh {name}, you have a sweet tooth! 🍰 I love it!\n\nSaudi desserts are rich, fragrant, and absolutely irresistible. We serve these during Ramadan, Eid, and any time we want to celebrate:\n\n{recipes}\n\nEach one is special in its own way. Which one would you like to try making, {name}? I'll guide you through every step!",
+    "Perfect choice, {name}! 🌸 Our desserts are infused with rose water, saffron, and cardamom - flavors that have been cherished for generations.\n\n{recipes}\n\nThese sweets are what I grew up eating during festivals and family celebrations. Which one appeals to you most?"
+  ],
+  
+  "show_similar": [
+    "You know what, {name}? Since you enjoyed that, I think you'd absolutely love these too:\n\n{similar}\n\nThey have similar flavors and techniques, but each has its own unique character. Want to explore any of these?",
+    "Great question, {name}! Here are some dishes with similar vibes:\n\n{similar}\n\nEach region in Saudi Arabia has its own version of these classics. Interested in learning about any of them?"
+  ],
+  
+  "need_clarification": [
+    "Hmm, I want to make sure I point you in the right direction, {name}! 🤔\n\nAre you interested in:\n🍚 **Rice dishes** - aromatic, spiced, and absolutely delicious\n🥩 **Meat dishes** - tender, flavorful, and perfect for gatherings\n🍰 **Desserts** - sweet treats that melt in your mouth\n\nOr if you have something specific in mind, just tell me!",
+    "I'm not quite sure what you're looking for, {name}, but I'm here to help! 😊\n\nMaybe you could tell me:\n- What type of dish interests you? (rice, meat, desserts)\n- Or name a dish you've heard of?\n- Or just describe what you're in the mood for!\n\nI'm all ears!"
+  ],
+  
+  "thanks_response": [
+    "You're so welcome, {name}! 😊 It was my pleasure!\n\nYou know, cooking is all about sharing and bringing people together. I hope you enjoy making this dish - and even more, I hope you enjoy sharing it with the people you love!\n\nCome back anytime you want to learn more Saudi recipes. I'm always here! 🌟",
+    "Aww, thank you {name}! That's so sweet of you! 💕\n\nI'm just happy I could help you discover these wonderful dishes. Saudi cuisine is close to my heart, and sharing it with curious people like you brings me so much joy!\n\nHappy cooking, {name}! And remember, if you need any tips while you're cooking, just come back and ask! 👩‍🍳"
+  ],
+  
+  "goodbye": [
+    "Goodbye, {name}! مع السلامة! 👋\n\nIt was wonderful chatting with you! I hope you enjoy cooking these Saudi dishes - they're made with love, and I know they'll bring warmth to your table.\n\nCome visit me again soon! I have so many more recipes to share! 🍽️✨",
+    "Take care, {name}! 🌟\n\nRemember, cooking is an adventure, and every dish tells a story. I hope these Saudi recipes become part of your own culinary journey!\n\nMa'a salama (that means goodbye in Arabic)! Come back anytime! 💕"
+  ],
+  
+  "no_recipe_found": [
+    "Hmm, I don't think I have that specific dish in my collection yet, {name}. 😕\n\nBut hey, I have some amazing alternatives! How about Kabsa or Mandi? Both are absolute classics and incredibly delicious. Or tell me what kind of flavors you're looking for, and I'll find something perfect for you!",
+    "Oh {name}, I wish I had that recipe to share! 🥺\n\nBut don't worry - I have plenty of other wonderful Saudi dishes that I think you'll love just as much! Want to browse by category, or shall I suggest something?"
+  ],
+  
+  "default": [
+  "I'm listening, {name}! 😊 What would you like to know more about?\n\nYou can ask me to:\n- Show you rice, meat, or dessert dishes\n- Explain a specific recipe\n- Find similar dishes to one you liked\n\nWhat's on your mind?",
+    "I'm here to help, {name}! 🤗\n\nFeel free to ask about:\n- **Specific dishes** (Kabsa, Mandi, Mathbi...)\n- **Categories** (rice, meat, sweets)\n- **Similar recipes** to something you liked\n\nWhat would you like to explore?"
+ ]
+}
