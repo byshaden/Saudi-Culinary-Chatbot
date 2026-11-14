@@ -242,7 +242,7 @@ Add to `data/recipes/[category].json`:
 - **Rahaf Alshahrani** (UI Developer) - Rahaf Alshahrani
 - **Lama Alsubaie** (Recipe Database Specialist)
 - **Fouzia** (Intent Classification)
-- **Shamah Alshahrani** (Response Generation)
+- **Shaden Alshahrani** (Response Generation)
 
 ---
 

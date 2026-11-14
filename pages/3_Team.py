@@ -46,7 +46,7 @@ col1, col2 = st.columns([1, 3])
 with col1:
     st.image("images/team-member-placeholder.jpg", width=150)
 with col2:
-    st.subheader("Shamah Alshahrani")
+    st.subheader("Shaden Alshahrani")
     st.write("**Role:** Response Generation Specialist")
     st.write("**Responsibility:** Created natural responses")
 
