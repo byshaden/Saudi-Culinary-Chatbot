@@ -2,6 +2,8 @@
 
 An intelligent conversational chatbot that introduces foreigners to authentic Saudi cuisine through natural, personalized interactions.
 
+🎓 *Team project — Tuwaiq Academy AI Bootcamp (2026)*
+
 ![Saudi Flag](https://img.shields.io/badge/Made%20in-Saudi%20Arabia-006C35?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
@@ -26,7 +28,7 @@ An intelligent conversational chatbot that introduces foreigners to authentic Sa
 ## 🏗️ Project Structure
 
 ```
-eliza-chatbot-1/
+Saudi-Culinary-Chatbot/
 ├── pages/
 │   ├── 1_Home.py              # Landing page
 │   ├── 2_Chat.py              # Main chat interface
@@ -60,8 +62,8 @@ eliza-chatbot-1/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/eliza-chatbot-1.git
-   cd eliza-chatbot-1
+   git clone https://github.com/byshaden/Saudi-Culinary-Chatbot.git
+   cd Saudi-Culinary-Chatbot
    ```
 
 2. **Create virtual environment**
